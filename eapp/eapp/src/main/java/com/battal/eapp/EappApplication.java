@@ -1,13 +1,15 @@
-package com.battal.eappp;
+package com.battal.eapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EapppApplication {
+public class EappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EapppApplication.class, args);
+		SpringApplication.run(EappApplication.class, args);
 	}
+
+
 
 }

@@ -1,10 +1,10 @@
-package com.battal.eappp;
+package com.battal.eapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EapppApplicationTests {
+class EappApplicationTests {
 
 	@Test
 	void contextLoads() {
