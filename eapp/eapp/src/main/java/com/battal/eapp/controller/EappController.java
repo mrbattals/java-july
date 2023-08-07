@@ -16,14 +16,6 @@ public class EappController {
 
        return eappSubmissionService.getEappSubmissionService();
    }
- /*   @GetMapping("/agent")
-    public Agent agent(){
-        return agentService.getAgent();
-    }
-    @GetMapping("/application")
-    public Application application(){
-        return applicationService.getApplication();
-    }*/
 
 
 }
